@@ -104,15 +104,15 @@ While working on this project, I learned how to:
 
 ### Customer Churn Analysis
 
-(Add Screenshot)
+[Customer Churn Analysis Dashboard](https://github.com/MdZaid7/Customer-Churn-and-Churn-Prediction-Analysis/blob/main/Churn%20Analysis.png)
 
 ### Future Churn Prediction
 
-(Add Screenshot)
+[Future Churn Prediction Dashboard](https://github.com/MdZaid7/Customer-Churn-and-Churn-Prediction-Analysis/blob/main/Churn%20Prediction.png)
 
 ### Predicted Churners Details
 
-(Add Screenshot)
+[Predicted Churners Details Page](https://github.com/MdZaid7/Customer-Churn-and-Churn-Prediction-Analysis/blob/main/Churn%20Prediction.png)
 
 ---
 
